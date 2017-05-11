@@ -20,7 +20,7 @@ To boot in standalone mode with admin console available remotely
 
 ## WildFly Administration Console
 
-Administration console will be available on the port `9990` of the container. The admin user is "wildflyadmin" and the key "wildflypassword"
+Administration console will be available on the port `9990` of the container. The admin user is `wildflyadmin` and the key `wildflypassword`
 
 ## Kie-Workbench Console
 
