@@ -24,6 +24,6 @@ Administration console will be available on the port `9990` of the container. Th
 
 ## Kie-Workbench Console
 
-Kie Workbench  console will be available on the url http://localhost:8080/kie-workbench of the container. The admin user is `kieserver` and the key `kieadmin`.
+Kie Workbench  console will be available on the url http://localhost:8080/kie-workbench of the container. The admin user is `kieadmin` and the key `kiepassword`.
 
 
